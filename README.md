@@ -4,3 +4,6 @@ LINK PARA A PLATAFORMA (Figma): https://www.figma.com/file/57qUHRxoUmTG1QsxGe6Ou
 LINK PARA O GITHUB (Lucas Bonfim Vilela): https://github.com/LucasBonfimVilela01
 
 LINK PARA O SITE (GitPage): https://underkyu.github.io/Criatil/index.html
+
+COLABORADORES:(e211mtecdsfatec@etex.sp.gov.br)
+(e211ccdams@etec.sp.gov.br)
